@@ -69,3 +69,56 @@ http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/sa" group-title="undefined",Al Quran Al Kareem (Mecca), Quran
 http://m.live.net.sa:1935/live/quran/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:-1, Ziggo Sport Select NL
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/4166.m3u8
+#EXTINF:-1, Ziggo Sport FHD NL
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/29050.m3u8
+#EXTINF:-1, Ziggo Sport Select FHD NL
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/12523.m3u8
+XTINF:-1, Ziggo Sport Voetbal NL
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/4167.m3u8
+#EXTINF:-1, Ziggo Sport Voetbal FHD NL
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/15803.m3u8
+#EXTINF:-1, NBCSN HD US
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/9008.m3u8
+#EXTINF:-1, BT Sport 1 FHD UK
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/14657.m3u8
+#EXTINF:-1, BT Sport 1 HD UK
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/1991.m3u8
+#EXTINF:-1, BT Sport 1 UK
+#EXTINF:-1, BT Sport 2 FHD UK
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/3586.m3u8
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/14658.m3u8
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/1992.m3u8 #EXTINF:-1, BT Sport 2 UK
+#EXTINF:-1, BT Sport 2 HD UK
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/3588.m3u8
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/14659.m3u8
+#EXTINF:-1, BT Sport 3 FHD UK
+#EXTINF:-1, BT Sport 3 UK
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/1965.m3u8
+#EXTINF:-1, Astro Supersports 1 MY
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/23453.m3u8
+#EXTINF:-1, Astro Supersports 2 MY
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/23452.m3u8
+#EXTINF:-1, Astro Supersports 3 MY
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/23451.m3u8
+#EXTINF:-1, Astro Supersports 4 MY
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/33973.m3u8 #EXTINF:-1, TSN 1 HD CA
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/9032.m3u8 #EXTINF:-1, TSN 2 HD CA
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/9033.m3u8 #EXTINF:-1, TSN 3 HD CA
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/9034.m3u8 #EXTINF:-1, TSN 4 HD CA
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/9035.m3u8
+#EXTINF:-1, TSN 5 HD CA
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/9036.m3u8
+#EXTINF:-1, Sky Sport 1 H HD DE
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/1479.m3u8
+#EXTINF:-1, Sky Sport 1 FHD DE
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/7326.m3u8
+#EXTINF:-1, Sky Sport 2 DE
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/14560.m3u8
+#EXTINF:-1, Sky Sport 2 HD DE
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/1480.m3u8
+#EXTINF:-1, Sky Sport 2 FHD DE
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/7327.m3u8
+#EXTINF:-1, Sky Sport 3 DE
+http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/14561.m3u8
