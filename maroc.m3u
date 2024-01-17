@@ -122,3 +122,27 @@ http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/1480.m3u8
 http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/7327.m3u8
 #EXTINF:-1, Sky Sport 3 DE
 http://tv.id.iptv.uno:80/live/ew5bBtfDw11760/fGaAqVdx0h1760/14561.m3u8
+#EXTINF:-1,NL- EDGE Sport HD NL
+http://smart-hdip.com:6204/lava1/lava1/11062
+#EXTINF:-1,NL- Ziggo Sport Voetbal
+http://smart-hdip.com:6204/lava1/lava1/9517
+#EXTINF:-1,NL- Ziggo Sport Select HD
+http://smart-hdip.com:6204/lava1/lava1/9518
+#EXTINF:-1,NL- Ziggo Sport Golf
+http://smart-hdip.com:6204/lava1/lava1/9520
+#EXTINF:-1,NL- Ziggo Sport Racing
+http://smart-hdip.com:6204/lava1/lava1/9519
+#EXTINF:-1,NL- Ziggo Sport Extra 1
+http://smart-hdip.com:6204/lava1/lava1/9522
+#EXTINF:-1,NL- Ziggo Sport Extra 2
+http://smart-hdip.com:6204/lava1/lava1/9521
+#EXTINF:-1,NL- Ziggo Sport Voetbal Backup
+http://smart-hdip.com:6204/lava1/lava1/11192
+#EXTINF:-1,NL- Ziggo Sport Select HD Backup
+http://smart-hdip.com:6204/lava1/lava1/11193
+#EXTINF:-1,NL- Ziggo Sport Golf Backup
+http://smart-hdip.com:6204/lava1/lava1/11194
+#EXTINF:-1,NL- Ziggo Sport Extra 1 Backup
+http://smart-hdip.com:6204/lava1/lava1/11196
+#EXTINF:-1,NL- Ziggo Sport Extra 2 Backup
+http://smart-hdip.com:6204/lava1/lava1/11195
